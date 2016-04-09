@@ -1,0 +1,52 @@
+{
+  "id": 437276909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"LT",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        85685755,
+        102191581,
+        85633269,
+        101818069,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"12734872"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":101818069,
+            "postalcode_id":437276909,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":437276909,
+    "wof:lastmodified":1459822134,
+    "wof:name":"5133",
+    "wof:parent_id":"101818069",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
